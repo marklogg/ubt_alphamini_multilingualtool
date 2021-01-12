@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RussianResources</string>
+    <string name="already_sitdown">Я уже сижу</string>
+    <string name="already_squatdown">Я уже на корточках</string>
+    <string name="already_standup">Я уже стою</string>
+    <string name="downloading">Загрузка, почти готово.</string>
+    <string name="network_bad">Подключение к сети плохое, переключите сеть и повторите.</string>
+    <string name="brain_is_short_circuited">Со мной что-то не так, повторите позднее.</string>
+    <string name="download_complete">Загружено, сейчас я покажу тебе</string>
+    <string name="please_later">Одну минуту, почти готово.</string>
+    <string name="fourG_no_sim_error">У меня нет SIM-карты, невозможно настроить включение 4G.</string>
+    <string name="fourG_off_tip_wifi_hot">4G отключён, я подключён к сети: %s</string>
+    <string name="fourG_open_tip_4g">4G включён, я использую сеть 4G.</string>
+    <string name="fourG_open_tip_wifi">4G включён, я подключён к сети: %s</string>
+    <string name="wifi_open_tip_wifi_hot">Wi-Fi включён, я подключён к сети: %s</string>
+    <string name="wifi_close_tip_4g">Wi-Fi отключён, я использую сеть 4G.</string>
+    <string name="wifi_close_tip_no_sim">У меня нет SIM-карты, невозможно выключить Wi-Fi.</string>
+    <string name="onWhichWifi_tip_4g">Я использую мобильный трафик.</string>
+    <string name="onWhichWifi_tip_wifi">Я подключён к сети Wi-Fi: %s.</string>
+    <string name="onHowBattery_tip">Заряд моего аккумулятора %s.</string>
+    <string name="onHowContent_tip">У меня осталось</string>
+    <string name="tips_push_up_over_20">Я могу отжаться только 20 раз. Ты хочешь, чтобы я сломался?</string>
+    <string name="tips_turn_left_over_10">Я ещё маленький, я могу повернуть налево только 10 раз, я продолжу упражняться.</string>
+    <string name="tips_turn_error">Так точно я ещё не могу. Я могу повернуть не больше 10 раз.</string>
+    <string name="tips_turn_right_over_10">Я ещё маленький, я могу повернуть направо только 10 раз, я продолжу упражняться.</string>
+    <string name="tips_go_forward_over_10">Я могу пройти вперёд только 10 шагов. Ты хочешь, чтобы я сломался?</string>
+    <string name="tips_go_forward_error">Так точно я ещё не могу. А ты можешь? Я могу пройти вперёд только 10 шагов.</string>
+    <string name="tips_back_over_10">Я ещё маленький, я могу пройти вперёд только 10 шагов. Я продолжу упражняться.</string>
+    <string name="tips_back_error">Так точно я ещё не могу. А ты можешь? Я могу пройти назад только 10 шагов.</string>
+</resources>
